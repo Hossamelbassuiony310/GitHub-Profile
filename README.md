@@ -2,19 +2,25 @@
 <h3 align="center">DevOps Engineer | AWS & Cloud Platforms | CI/CD | Kubernetes | Terraform | Docker From Egypt</h3>
 
 
-- 🌱 I’m currently learning **Advanced AWS services (EKS, cost optimization), ArgoCD for GitOps, and scalable microservices patterns.**
+- 🔭 I’m currently working on **migrating real-world platforms to AWS, building automated CI/CD pipelines, and implementing observability stacks (Prometheus, Grafana, Loki).**
 
-- 👯 I’m looking to collaborate on [Cloud-native projects, scalable infrastructure, and open-source DevOps tooling.](https://github.com/Hossamelbassuiony310/Terraform_Project)
+- 🚀 Recent project: **Migrated ClikApp (social media platform) from Hostinger to AWS**, reduced latency by 25%, and automated deployments with GitHub Actions.  
 
-- 🤝 I’m looking for help with [Contributing to advanced observability stacks (Grafana, Loki, Prometheus) and large-scale Kubernetes clusters.](https://github.com/Hossamelbassuiony310/Spring_Petclinic_CICD_K8s)
+- 🌱 I’m deepening my expertise in **Kubernetes at scale (EKS), GitOps with ArgoCD, and AWS cost optimization strategies.**
 
-- 👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/Hossamelbassuiony310)
+- 👯 Open to collaborate on **cloud-native projects, infrastructure automation (Terraform/Ansible), and monitoring solutions.**
 
-- 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, GitHub Actions, Jenkins, and CI/CD automation.**
+- 🤝 I’m looking for opportunities to **contribute to open-source DevOps tools** and large-scale Kubernetes clusters.  
 
-- 📫 How to reach me **hossambesso7@gmail.com**
+- 👨‍💻 Check out my pinned projects:  
+  [Terraform AWS Project](https://github.com/Hossamelbassuiony310/Terraform_Project) •  
+  [Spring PetClinic CI/CD on K8s](https://github.com/Hossamelbassuiony310/Spring_Petclinic_CICD_K8s)
 
-- 📄 Know about my experiences [My-CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
+- 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, CI/CD pipelines, GitHub Actions, Jenkins, and observability.**
+
+- 📫 Reach me at **hossambesso7@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/hossam-el-bassuiony-43b72622a/)
+
+- 📄 My full resume is available here: [View CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
