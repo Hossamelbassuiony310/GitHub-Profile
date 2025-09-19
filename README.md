@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam El-Bassuiony</h1>
 <h3 align="center">DevOps Engineer | AWS & Cloud Platforms | CI/CD | Kubernetes | Terraform | Docker From Egypt</h3>
 
-- 🔭 I’m currently working on **Migrating and containerizing platforms on AWS, optimizing CI/CD pipelines with GitHub Actions & Jenkins**
 
 - 🌱 I’m currently learning **Advanced AWS services (EKS, cost optimization), ArgoCD for GitOps, and scalable microservices patterns.**
 
@@ -9,23 +8,19 @@
 
 - 🤝 I’m looking for help with [Contributing to advanced observability stacks (Grafana, Loki, Prometheus) and large-scale Kubernetes clusters.](https://github.com/Hossamelbassuiony310/Spring_Petclinic_CICD_K8s)
 
-- 👨‍💻 All of my projects are available at My GitHub Account [https://github.com/Hossamelbassuiony310](https://github.com/Hossamelbassuiony310)
-
+- 👨‍💻 All of my projects are available at My GitHub Account [Hossamelbassuiony310](https://github.com/Hossamelbassuiony310)
 
 - 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, GitHub Actions, Jenkins, and CI/CD automation.**
 
 - 📫 How to reach me **hossambesso7@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
+- 📄 Know about my experiences [My-CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hossam-el-bassuiony-43b72622a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-el-bassuiony-43b72622a" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Hossamelbassuiony310" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hossamelbassuiony310" height="30" width="40" />
   </a>
 </p>
 
