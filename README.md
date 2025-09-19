@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hossambesso7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
