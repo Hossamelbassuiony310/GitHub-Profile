@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at My GitHub Account [https://github.com/Hossamelbassuiony310](https://github.com/Hossamelbassuiony310)
 
-- 📝 I regularly write articles on [saas](saas)
 
 - 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, GitHub Actions, Jenkins, and CI/CD automation.**
 
@@ -19,7 +18,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing](https://drive.google.com/file/d/1J0Jg1iwBLf89Xw_5dF9LIhNmwAXMKLHz/view?usp=sharing)
 
-- ⚡ Fun fact **saas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
